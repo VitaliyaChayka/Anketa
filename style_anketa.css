@@ -1,0 +1,74 @@
+h1,
+p {
+    color: brown;
+    text-align: center;
+}
+
+body {
+    margin: 0 30%;
+}
+
+div {
+    margin-right: 60%;
+    width: 650px;
+}
+
+fieldset {
+    background-color: #fae7e7;
+    color: brown;
+    border: 1px solid;
+    border-color: deepskyblue;
+    border-radius: 1ch;
+}
+
+label {
+    display: inline-block;
+    width: 30%;
+}
+
+.container1 input {
+    border: 1px solid gray;
+    width: 230px;
+    height: 18px;
+}
+
+.container2 input {
+    border: 1px solid gray;
+    width: 230px;
+    height: 18px;
+}
+
+#fav_cuisine,
+.fav_dish {
+    display: inline-block;
+    width: 30%;
+}
+
+#kitchen {
+    border: 1px solid gray;
+    width: 230px;
+    height: 18px;
+}
+
+.message {
+    border: 1px solid gray;
+    width: 226px;
+    height: 40px;
+}
+
+legend {
+    color: deepskyblue;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.container4 input {
+    border: 1px solid;
+    padding: 10px;
+    text-align: center;
+    border-color: deepskyblue;
+    border-radius: 1ch;
+    background-color: #00bfff;
+    background: linear-gradient(to bottom, #F7DBDB, #00bfff);
+    color: brown;
+}
